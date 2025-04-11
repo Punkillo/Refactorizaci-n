@@ -14,4 +14,36 @@
 **java.math.BigDecima**
 (Se ha borrado este método ya que no se utilizaba)
 
+**private static String NOMBRE_REAL_MADRID = "Real Madrid club de Fútbol"; **
+(cambiarl a publico)
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** **
 
