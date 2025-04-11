@@ -1,0 +1,6 @@
+projectKey=practica_refactor
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=practica_refactor
+ceTaskId=dffd13ec-c101-4901-bd59-a7d882131b71
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dffd13ec-c101-4901-bd59-a7d882131b71
